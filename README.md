@@ -14,7 +14,7 @@ Beemo is available in the [HuggingFace datasets library](https://huggingface.co/
 
 * 📊 **Curated by**: Toloka, Penn State University, and University of Oslo.
 * 🌐 **Language(s)**: English
-* 🗞️ **Paper**: TBA
+* 🗞️ **Paper**: [arxiv.org/abs/2411.04032](https://arxiv.org/abs/2411.04032)
 * 🪪 **License**: MIT
 
 ### 🔥Updates
@@ -81,6 +81,15 @@ The machine-generated texts are edited by an in-house team of annotators, who ar
 * The expert-edited machine-generated texts are available under the MIT license, unless otherwise specified in the underlying instruction-finetuned LLMs' licensing terms.
 
 ## Cite us
+
+```
+@article{artemova2024beemo,
+  title={Beemo: Benchmark of Expert-edited Machine-generated Outputs},
+  author={Artemova, Ekaterina and Lucas, Jason and Venkatraman, Saranya and Lee, Jooyoung and Tilga, Sergei and Uchendu, Adaku and Mikhailov, Vladislav},
+  journal={arXiv preprint arXiv:2411.04032},
+  year={2024}
+}
+```
 
 ## Contact us
 
