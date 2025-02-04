@@ -19,7 +19,7 @@ Beemo is available in the [HuggingFace datasets library](https://huggingface.co/
 
 ### 🔥Updates
 
-* **`04.02.2024`**: Our paper is accepted to NAACL 2025, and we release our [human annotation guidelines](/guidelines).
+* **`04.02.2025`**: Our paper is accepted to NAACL 2025, and we release our [human annotation guidelines](/guidelines).
 * **`07.11.2024`**: The release of Beemo, which includes adding machine-generated & LLM-edited texts and a preprint on arXiv.
 * **`17.09.2024`**: The initial release and evaluation of 11 detectors on Beemo.
 
