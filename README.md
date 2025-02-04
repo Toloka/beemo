@@ -12,15 +12,16 @@ Beemo is available in the [HuggingFace datasets library](https://huggingface.co/
 
 <small> Our benchmark is named after BMO (abbreviated from "Be MOre", phonetically spelled "Beemo"), one of the main characters of Adventure Time. </small>
 
-* 📊 **Curated by**: Toloka, Penn State University, and University of Oslo.
+* 📊 **Curated by**: Toloka, Penn State University, MIT Lincoln Laboratory, and University of Oslo.
 * 🌐 **Language(s)**: English
 * 🗞️ **Paper**: [arxiv.org/abs/2411.04032](https://arxiv.org/abs/2411.04032)
 * 🪪 **License**: MIT
 
 ### 🔥Updates
 
-* **`07.11.2024`**: the release of Beemo, which includes adding machine-generated & LLM-edited texts and a preprint on arXiv.
-* **`17.09.2024`**: the initial release and evaluation of 11 detectors on Beemo.
+* **`04.02.2024`**: Our paper is accepted to NAACL 2025, and we release our [human annotation guidelines](/guidelines).
+* **`07.11.2024`**: The release of Beemo, which includes adding machine-generated & LLM-edited texts and a preprint on arXiv.
+* **`17.09.2024`**: The initial release and evaluation of 11 detectors on Beemo.
 
 ## Benchmark Design
 
